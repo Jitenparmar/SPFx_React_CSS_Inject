@@ -32,6 +32,9 @@ export default class SpFxReactCssInjectApplicationCustomizer
       message = '(No properties were provided.)';
     }
     require("../spFxReactCssInject/loc/InjectedStyle.css");
+
+
+    
     //Dialog.alert(`Hello from ${strings.Title}:\n\n${message}`);
 
     return Promise.resolve();
