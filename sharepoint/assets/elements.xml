@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="SpFxReactCssInject"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="8549ea6b-88e5-4204-bb4e-f65b97de277f"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
