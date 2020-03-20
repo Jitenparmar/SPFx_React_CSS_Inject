@@ -1,9 +1,3 @@
-div[class^="titleSubcell"] {
-    background-color: #f6fbfd;
-  }
-div[class^="titleSubcell"] a,div[class^=titleSubcell] a:hover{
-    color: #f6fbfd;
-}
 div[class^="ms-DocumentCardActivity"]{
     display: none;
 }
